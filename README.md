@@ -20,7 +20,7 @@ Como utilizamos o github para hospedar, a blioteca JitPack tem nos ajudado muito
 
 ```xml
 	<dependency>
-	    <groupId>com.github.filipegermano</groupId>
+	    <groupId>com.github.fabriciomouraf</groupId>
 	    <artifactId>alfred</artifactId>
 	    <version>1.2</version>
 	</dependency>
@@ -38,7 +38,7 @@ Como utilizamos o github para hospedar, a blioteca JitPack tem nos ajudado muito
 ```
 
 ```groovy
-	compile group: 'com.github.filipegermano', name: 'alfred', version: '1.2'
+	compile group: 'com.github.fabriciomouraf', name: 'alfred', version: '1.2'
 ```
 
 #### Sbt 
@@ -48,5 +48,5 @@ Como utilizamos o github para hospedar, a blioteca JitPack tem nos ajudado muito
 ```
 
 ```skala
-	libraryDependencies += "com.github.filipegermano" % "alfred" % "1.2"	
+	libraryDependencies += "com.github.fabriciomouraf" % "alfred" % "1.2"	
 ```
